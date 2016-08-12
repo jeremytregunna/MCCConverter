@@ -9,13 +9,13 @@ Sometimes, like when talking with the CoreTelephony framework, you may want the 
 ***Cocoa Pods***
 
 ```
-$ pod install mcc
+$ pod install MCCConverter
 ```
 
 ***Submodule***
 
 ```
-$ git submodule add https://github.com/Greenshire/mcc.git
+$ git submodule add https://github.com/Greenshire/MCCConverter.git
 ```
 
 Then drag the `MCCConverter.xcodeproj` file into your workspace, add it as a target dependency of your app target, and finally, add it to your link library build phase. Done.
