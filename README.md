@@ -1,6 +1,6 @@
 # Mobile Country Code Converter
 
-![Screenshot](https://github.com/Greenshire/MCCConverter/blob/master/example.png)
+<img src="https://github.com/Greenshire/MCCConverter/blob/master/example.png" width="375" height="667">
 
 Sometimes, like when talking with the CoreTelephony framework, you may want the E.212 country code, but often times, you want the E.164 code instead. CoreTelephony doesn't give you this information, so why not just use the ISO country code CoreTelephony gives you to find the E.164 without hitting a web service? Enter the Mobile Country Code Converter.
 
